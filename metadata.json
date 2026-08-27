@@ -1,0 +1,6 @@
+{
+  "name": "부산형 통합돌봄 자원 매핑 & 수급 분석 대시보드",
+  "description": "부산광역시 16개 구·군의 65세 이상 노인 인구 통계와 장기요양기관 인프라 분포를 결합하여 돌봄 사각지대를 진단하고 수급 불균형을 분석하는 실무자용 GIS 웹 대시보드",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
